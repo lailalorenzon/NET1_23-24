@@ -18,7 +18,7 @@ gi:Recommendations a rdfs:Class ;
     vs:term_status "experimental" .
 
 gi:EnvironmentTechnologique a rdfs:Class ;
-    rdfs:label "EnvironmentTechnologique" ;
+    rdfs:label "Environment Technologique" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
