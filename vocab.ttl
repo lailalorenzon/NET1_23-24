@@ -10,7 +10,7 @@
 @prefix schema: <http://schema.org/>.
 
 <https://jardindesconnaissances.univ-paris8.fr/onto/gi> a owl:Ontology ;
-    dcterms:title "Governance de l'Internet" .
+    dcterms:title "Gouvernance de l'Internet" .
 
 gi:NetNeutrality a rdfs:Class ;
     rdfs:label "Net Neutrality" ;
