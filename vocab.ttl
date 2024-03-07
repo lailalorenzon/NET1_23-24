@@ -12,28 +12,23 @@
 <https://jardindesconnaissances.univ-paris8.fr/onto/gi> a owl:Ontology ;
     dcterms:title "Gouvernance de l'Internet" .
 
-gi:NetNeutrality a rdfs:Class ;
-    rdfs:label "Net Neutrality" ;
+gi:Recommendations a rdfs:Class ;
+    rdfs:label "Recommendations" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
-gi:ProtectionDesDonnees a rdfs:Class ;
-    rdfs:label "Protection des données" ;
+gi:EnvironmentTechnologique a rdfs:Class ;
+    rdfs:label "EnvironmentTechnologique" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
-gi:DomainNameSystem a rdfs:Class ;
-    rdfs:label "Domain Name System" ;
+gi:Institutions a rdfs:Class ;
+    rdfs:label "Institutions" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
-gi:ICANN a rdfs:Class ;
-    rdfs:label "Internet Corporation for Assigned Names and Numbers (ICANN)" ;
-    rdfs:domain o:Resource ;
-    vs:term_status "experimental" .
-
-gi:Cybersecurite a rdfs:Class ;
-    rdfs:label "Cybersécurité" ;
+gi:Outils a rdfs:Class ;
+    rdfs:label "Outils" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .    
 
@@ -43,12 +38,11 @@ gi:Reglementations a rdfs:Class ;
     owl:sameAs schema:Course ;    
     vs:term_status "experimental" .
 
-gi:ModerationDeContenu a rdfs:Class ;
-    rdfs:label "Modération de contenu" ;
+gi:AgentsPrive a rdfs:Class ;
+    rdfs:label "Agents Privé" ;
     rdfs:domain o:Resource ;
     owl:sameAs schema:Course ;    
     vs:term_status "experimental" .
-
 
 
 gi:HasMultilateralisme a rdf:Property ;
@@ -81,6 +75,27 @@ gi:HasCoordinationInternationale a rdf:Property ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
+gi:HasMultilateralisme a rdf:Property ;
+    rdfs:label "A comme Multilatéralisme" ;
+    rdfs:comment "Relation avec Réglementation" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+gi:HasNormes a rdf:Property ;
+    rdfs:label "A comme Normes" ;
+    rdfs:comment "Relation avec Réglementation" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
+gi:HasAnonymisation a rdf:Property ;
+    rdfs:label "A comme Anonymisation" ;
+    rdfs:comment "Relation avec Réglementation" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
 
 
-
+gi:HasConfidentialite a rdf:Property ;
+    rdfs:label "A comme Confidentialité" ;
+    rdfs:comment "Relation avec Réglementation" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
