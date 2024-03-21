@@ -1,1 +1,22 @@
-## Voici mon analyse
+## Gouvernance d'Internet (GI) - Laila Neves LORENZON
+
+Mon choix de thématique est motivé par l'importance croissante des stratégies visant à assurer un gouvernement juste et égalitaire de l'environnement numérique. Je suis particulièrement intéressée par les différents éléments qui composent la Gouvernance de l'Internet (GI) et par l'approche multisectorielle qui permet la participation de divers acteurs dans le développement des recommandations et des stratégies pour le bon fonctionnement du monde numérique. Cela permet l'adoption de divers points de vue afin d'éviter d'éventuelles formes d'oppression qui pourraient être soutenues par certaines applications numériques de l'actualité. En bref, la GI englobe un ensemble de normes, de protocoles et de mécanismes de régulation qui guident la manière dont l'internet est géré à l'échelle mondiale.
+Elle vise à garantir l'ouverture, l'accessibilité, la sécurité et la liberté d'expression en ligne pour tous les utilisateurs et est ancré sur les principes de transparence, de responsabilité, de pluralisme et de participation. L'objectif des ces efforst est de créer un environnement numérique équitable et inclusif, où chaque individu a la possibilité de participer pleinement à la société numérique sans discrimination ni préjudice. Dans ce sens, l'Internet Governance Forum (IGF) est une plateforme centrale pour les discussions dans le domaine de la gouvernance de l'internet, et mon interesse sur ça a grandi encore plus après avoir appris que j'avais été sélectionné pour participer à YouthDIG cette année. Le YouthDIG est un forum ou un événement spécifique qui fait partie du cadre plus large de l'EuroDIG (European Dialogue on Internet Governance) qui est conçu comme une plateforme pour les jeunes participants de l'IGF. J'ai hâte d'en savoir plus sur ces discussions et de me familiariser avec les principaux sujets en discussion sur l'environnement de la Gouvernance de l'Internet, c'est pourquoi j'ai choisi de concentrer mon analyse là-dessus pour mieux comprendre les différentes ressources et éléments qui composent la GI.
+
+## Le vocabulaire 
+Ma comprehension de le vocabulaire qu'on a fait sur GitHub c'est de penser sur les differents composants relationnes avec ma thematique principal (la Gouvernance d'Internet) et des characteristiques liees à ces composants et liees à la GI en general. J'ai donc construit mon vocabulaire pour apres l'utiliser pour construir mon ressource template sur Omeka. Cependant, au moment d'elaboration du vocabulaire, il n'y a pas un relation etabli d'entre las classes et proprietes, ce que serais construir au moment de la creation des ressources template et des items.
+
+Pour l'elaboration de mon vocabulaire, j'ai pensee sur les principaux elements qui compose la Gouvernance d'Internet comme des "Recommendations" qui sont elabores et discutes par differents acteurs dans les principaux evenements autour de la GI, des "Réglementation" deja existent pour gerer l'environment numerique, que varie en accordance avec chaque pays et au contraire des recommendations, ont de force legal et doivent etre suivis pour tout les citoyens du pays ou region politique (comme la Union Europeenee). J'ai pensé aussi sur les divers "Institutions" qui font partie de cet environment et jouent un rôle clé dans le developpment de normes pour la standardisation d'utilisation d'Internet et qui sont toujours present dans les discussions liee à la GI. Il y a aussi des "Outils" qui permettre la bonne utilisation et organization d'internet, et meme la connexion comme les elements d'infrastructure physique, et aussi des elements pour permettre la conversation entre les humaines et les machines (codes HTML, normes du websemanthique, etc). Pareil à ça, j'ai noté la necessite de creer un classe separe pour decrire les elements du "Environment Technologique", comme le Big Data, Intelligence Artificielle e XXX - por ultimo os "agents privees"
+
+## Les ressources template
+
+MONTRER DES EXMAPLES - dar mais detalhes sobre oq caracteriza cada uma dessas classes e como eu pensei nas caracteristicas similares que cada item dentro das categorias deveria ter 
+
+c'est pour cree des liens entre le vocabulaire et les items, il donne le sens el classifie les items 
+grille de description 
+
+## Les items
+
+exemples precis d'objet --> tipo ah eu escolhi esse item X pq tem relacao com a classe e dar exemplos de cada item que coloquei, pra que serve, como ele se inclui nas categorias e como tem as propriedades etc etc 
+
+c'est le description de la grille (ressources template) que da signficado a tudo, preenche todo o resto
