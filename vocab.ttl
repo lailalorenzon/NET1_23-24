@@ -93,9 +93,15 @@ gi:HasAnonymisation a rdf:Property ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
 
-
 gi:HasConfidentialite a rdf:Property ;
     rdfs:label "A comme Confidentialité" ;
     rdfs:comment "Relation avec Réglementation" ;
     rdfs:domain o:Resource ;
     vs:term_status "experimental" .
+
+gi:HasInfrastructure a rdf:Property ;
+    rdfs:label "A comme Infrastructure" ;
+    rdfs:comment "Relation avec Réglementation" ;
+    rdfs:domain o:Resource ;
+    vs:term_status "experimental" .
+
